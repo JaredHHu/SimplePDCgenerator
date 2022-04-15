@@ -1,2 +1,3 @@
-# SimplePDCgenerator
-PDC简易生成器
+# PDC简易生成器
+当前版本：0.5
+当前内置机场数据：AIRAC 2106
